@@ -46,7 +46,7 @@ In today's fast-paced world, there is an overwhelming number of articles and upd
 - **Article Relationships:** Suggest related articles based on the current article's keywords.
 - **Interactive UI:** Allows users to input queries and adjust the summarization length.
 
-### Expected Deliverables
+### Deliverables
 - A robust language processing model for article filtering and summarization.
 - Relevant article links related to the topic.
 - Interactive UI for user interaction.
